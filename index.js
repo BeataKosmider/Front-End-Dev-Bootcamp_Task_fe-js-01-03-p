@@ -1,9 +1,8 @@
 // Zaimplementuj zadanie zgodnie z wytycznymi
+const firstNumber;
+const secondNumber;
 
-let firstNumber;
-let secondNumber;
-
-let result;
+const result;
 
 module.exports = {
   firstNumber,
