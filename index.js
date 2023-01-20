@@ -1,8 +1,8 @@
 // Zaimplementuj zadanie zgodnie z wytycznymi
-const firstNumber;
-const secondNumber;
+const firstNumber = 2;
+const secondNumber = 5;
 
-const result;
+const result = (firstNumber + secondNumber) / 2;
 
 module.exports = {
   firstNumber,
